@@ -106,3 +106,8 @@ Sequelize is a promise based Node.js for Postgres, MySQL and more.
 
 * A great advantage for having sequelize are the different database system without having to rewrite the database queries logic.
 
+
+- Page URL https://github.com/osama-abdallah/advanced-js-reading-notes/blob/main/03-Data-Modeling.md
+
+Repo Link https://github.com/osama-abdallah/advanced-js-reading-notes.
+
