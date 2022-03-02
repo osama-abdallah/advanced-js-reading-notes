@@ -15,5 +15,5 @@ Linked List its a linear collection system for data elements in which its elemen
 
 
 
-[RepoLink]()
-[LiveLink]()
+[RepoLink](https://github.com/osama-abdallah/advanced-js-reading-notes)
+[LiveLink](https://github.com/osama-abdallah/advanced-js-reading-notes/blob/main/04-Linked-Lists.md)
