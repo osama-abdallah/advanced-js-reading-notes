@@ -4,3 +4,4 @@
 * [class2](./02-Express-REST-API.md)  
 * [class3](./03-Data-Modeling.md)
 * [class4](./04-Linked-Lists.md)
+* [class5](./05-Authentication.md)
