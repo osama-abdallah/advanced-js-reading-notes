@@ -51,6 +51,6 @@ OWASP stands for the open web application security project its a non profit foun
 
 its a password hashing function used to build a passwrod security to protect from hacking by storing the password in bycrpted format. thr bcrypt refers to the blowfish encryption algorthim which uses salt and magic value.
 
-- repo link ()
+- repo link (https://github.com/osama-abdallah/advanced-js-reading-notes/blob/main/README.md)
 
-- Live Link ()
+- Live Link (https://github.com/osama-abdallah/advanced-js-reading-notes/blob/main/05-Authentication.md)
