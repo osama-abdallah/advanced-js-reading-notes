@@ -41,3 +41,6 @@ An access token is a tiny piece of code that contains a large amount of data suc
 JWT is an open standard used to share security information between two sides(client server). Each JWT contains JSON objects, JWTs has a special siging method to ensure that the claims cannot be altered after the token is issued.
 
 
+- repo link (https://github.com/osama-abdallah/advanced-js-reading-notes/blob/main/README.md)
+
+- Live Link (https://github.com/osama-abdallah/advanced-js-reading-notes/blob/main/06-Bearer-Authorization.md)
