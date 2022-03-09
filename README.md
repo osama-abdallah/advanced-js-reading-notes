@@ -6,3 +6,4 @@
 * [class4](./04-Linked-Lists.md)
 * [class5](./05-Authentication.md)
 * [class6](./06-Bearer-Authorization.md)
+* [class7](./07-Access-Control-(ACL).md)
