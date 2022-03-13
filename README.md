@@ -7,3 +7,4 @@
 * [class5](./05-Authentication.md)
 * [class6](./06-Bearer-Authorization.md)
 * [class7](./07-Access-Control-(ACL).md)
+* [class8](./08-Access-Control-(ACL).md)
