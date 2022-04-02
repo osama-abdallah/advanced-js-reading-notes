@@ -15,3 +15,4 @@
 * [class13](./13-Trees.md)
 * [class14](./14-AWS-Cloud-Servers.md)
 * [class15](./15-AWS-S3-and-Lambda.md)
+* [class16](./16-AWS-API-Dynamo-and-Lambda.md)
