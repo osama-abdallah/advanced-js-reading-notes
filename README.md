@@ -16,3 +16,4 @@
 * [class14](./14-AWS-Cloud-Servers.md)
 * [class15](./15-AWS-S3-and-Lambda.md)
 * [class16](./16-AWS-API-Dynamo-and-Lambda.md)
+* [class26](./26-Component-Based-UI.md)
