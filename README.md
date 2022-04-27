@@ -18,3 +18,4 @@
 * [class16](./16-AWS-API-Dynamo-and-Lambda.md)
 * [class26](./26-Component-Based-UI.md)
 * [class27](./27-useState-Hook.md)
+* [class28](./28-Component-Lifecycle-useEffect()-Hook.md)
