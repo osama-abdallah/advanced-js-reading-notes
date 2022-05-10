@@ -20,3 +20,4 @@
 * [class27](./27-useState-Hook.md)
 * [class28](./28-Component-Lifecycle-useEffect()-Hook.md)
 * [class29](./29-Advanced-State-with-Reducers.md)
+* [class30](./30-Hash-Tables.md)
