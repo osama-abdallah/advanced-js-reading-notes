@@ -22,3 +22,4 @@
 * [class29](./29-Advanced-State-with-Reducers.md)
 * [class30](./30-Hash-Tables.md)
 * [class31](./31-Context-API.md)
+* [class32](./32-Context-API-Behaviors.md)
