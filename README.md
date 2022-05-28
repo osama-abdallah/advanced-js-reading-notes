@@ -26,3 +26,4 @@
 * [class33](./33-login-and-auth.md)
 * [class34](./34-API-Integration.md)
 * [class35](./35-Graphs.md)
+* [class36](./36-Application-State-with-Redux.md)
