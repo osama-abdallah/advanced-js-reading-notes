@@ -27,3 +27,4 @@
 * [class34](./34-API-Integration.md)
 * [class35](./35-Graphs.md)
 * [class36](./36-Application-State-with-Redux.md)
+* [class37](./37-Redux-Combined-Reducers.md)
