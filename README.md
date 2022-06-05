@@ -29,3 +29,4 @@
 * [class36](./36-Application-State-with-Redux.md)
 * [class37](./37-Redux-Combined-Reducers.md)
 * [class38](./38-Redux-Asynchronous-Actions.md)
+* [class39](./39-Redux-Additional-Topics.md)
