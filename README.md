@@ -30,3 +30,4 @@
 * [class37](./37-Redux-Combined-Reducers.md)
 * [class38](./38-Redux-Asynchronous-Actions.md)
 * [class39](./39-Redux-Additional-Topics.md)
+* [class40](./40-React-Native.md)
