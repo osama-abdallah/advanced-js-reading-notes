@@ -32,3 +32,4 @@
 * [class39](./39-Redux-Additional-Topics.md)
 * [class40](./40-React-Native.md)
 * [class42](./42-Ethics.md)
+* [class43](./43-Open-Source-Software-Contribution.md)
